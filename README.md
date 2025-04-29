@@ -20,6 +20,10 @@ A modern e-commerce mobile application built with Flutter, designed for fashion 
 - HTTP for API communication
 - Shared Preferences for local storage
 
+## Demo Video
+
+![App Demo](assets/of.gif)
+
 ## Getting Started
 
 1. Clone the repository
